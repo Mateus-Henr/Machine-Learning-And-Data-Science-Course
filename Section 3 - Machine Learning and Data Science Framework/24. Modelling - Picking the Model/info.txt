@@ -1,0 +1,6 @@
+24. Modelling - Picking the Model
+Structured Data - Decision trees like CatBost or dmlc XGBoost are options.
+Unstructured Data - Deep learning and transfer learning are what to go for.
+
+Training a model - You will be lining up the inputs and outputs, using that data to predict the labels.
+Goal: Minimise time between experiments.

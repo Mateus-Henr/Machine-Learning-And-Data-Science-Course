@@ -1,0 +1,4 @@
+A.I. - It's a machine that acts like a human in a specific task.
+Machine Learning - It's a subsection of A.I., summing up, it looks for patterns in a set of data in order to "learn". "Doing things without having to be told".
+Deep Learning - One of the tecniques to implement machine learning.
+Data Science - Very correlated to Machine Learning.

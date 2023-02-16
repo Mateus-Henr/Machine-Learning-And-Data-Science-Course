@@ -1,0 +1,5 @@
+25. Modelling - Tuning
+It usually takes place in a validation data split, but it might take place on training as well.
+Turning is basically adjust settings to improve predictions, some settings (hyperparameters) that can be altered are:
+	• Random Forest: The number of trees
+Neural Networks: The number of layers.

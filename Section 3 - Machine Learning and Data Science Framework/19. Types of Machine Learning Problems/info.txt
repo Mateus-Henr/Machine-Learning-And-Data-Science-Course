@@ -1,0 +1,24 @@
+When you shouldn't use machine learning
+	• When an imperative programming code is enough to solve the problem.
+
+Main types of machine learning
+Supervised learning - There's data and labels. The machine essentially attempts to guess the label. It repeats the process of guessing and improving itself at each time.
+
+Classification - Identifying if it's one thing or another. Guessing a dog breed for instance.
+	Binary classification - Two options.
+	Multi-class classfication - More than two options.
+	
+Regression - Trying to predict a number. Stock market prediction is an example.
+
+
+Unsupervised learning - There is data but no label. It watches out for patterns in order to classify items. Recomendation problems fit into this box.
+
+Transfer learning - This is when we train an already existing machine learning algorithm to change its target.
+
+Reinforcement learning - This is based on trying and error.
+
+Conclusion
+Always match Your problem to the most preferable type of machine learning.
+Supervised learning - When you know the inputs and outputs.
+Unsupervised learning - When you have inputs.
+Transfer learning - Problem similar to an already existing one.
