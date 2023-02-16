@@ -1,0 +1,4 @@
+name: C:\Projects\MachineLearning\sample_project
+channels:
+  - defaults
+prefix: C:\Projects\MachineLearning\sample_project
