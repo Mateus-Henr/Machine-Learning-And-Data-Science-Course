@@ -1,9 +1,0 @@
-Supervised - The data already have categories. There's a person that checks if the machine got it right.
-	• Classification - When the data is divided in two groups groups.
-	• Regression - Predictions.
-
-Unsupervised - The data don't have categories. We let the machines decide what's right or wrong.
-	• Clustering - The machine creates the groups.
-	• Association Rule Learning - Associate stuff to predict what the user might do.
-
-Reinforcement - Teaching machines through trying and error. Used for skill acquisition and real time learning.

@@ -1,1 +1,0 @@
-Machine Learning usually tackles topics that usually only humans could do, things that are "predictable" or that we cannot describe to a computer. The goal is to make machines more similar to humans in order to make things faster in our society.

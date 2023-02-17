@@ -1,8 +1,0 @@
-22. Features In Data
-Features consists of different types of data.
-Different types of data can be referred to as feature variables. Feature variables are used to get to the target variables. In other words, "feature variables" would be the input, whereas "target varaibles" would be the output.
-Types of feature variables
-	• Numerical features - Number (weight).
-	• Categorical features - One thing or another (sex).
-	• Derived variable (feature engineering) - When new features are created from an existing one.
-Be aware of the features that you're gonna be implementing. Machine learning alogrithms perform better in similar data, so if the data is too broad, the perform might not be as good as expected. Feature coverage is the name given to ensure that all samples have similar info.

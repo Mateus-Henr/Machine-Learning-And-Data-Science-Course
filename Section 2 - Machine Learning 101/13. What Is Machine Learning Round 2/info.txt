@@ -1,7 +1,0 @@
-Machine Learning algorithms are also called models.
-They differ from normal algorithms once normal algorithms start with an input and a recipe to follow to get to a specific output, however when it comes to machine learning algorithms it starts with input and an ideal output to get to the recipe.
-
-Data analysis vs Data Science
-Data analysis consists in analysing a set of data in order to get a better understanding of the data.
-Meanwhile, machine lerning bases itself off in looking at data and finding patterns in it.
-Data science is both of them together.
